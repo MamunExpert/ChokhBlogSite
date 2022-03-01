@@ -26,3 +26,13 @@
 .slogan{
     color: yellow;
 }
+
+.hot{
+    background-color: red; 
+    color: white;
+    text-align: center;
+    width: 10%;
+}
+.news{
+    background-color: rgb(143, 238, 255);
+}
