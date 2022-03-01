@@ -1,0 +1,9 @@
+.post{
+    background-color: rgb(143, 238, 255);
+    width: 23%;
+    text-align: center;
+    float: left;
+    margin: 6px;
+    padding: 7px;
+    border-radius: 0px 15px 0px 15px;
+}
