@@ -7,5 +7,22 @@
 #warning{
     text-align: center;
     color: red;
-    
+
+}
+
+.who{
+    text-align: center;
+    width: 50%;
+    background-color: rgb(18, 0, 175);
+    color: white;
+    margin-left: 24%;
+    font-family: Tahoma;
+    padding: 20px;
+    border: 15px solid red;
+}
+.saiz{
+    font-size: 250%;
+}
+.slogan{
+    color: yellow;
 }
